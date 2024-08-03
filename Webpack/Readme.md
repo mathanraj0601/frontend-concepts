@@ -4,7 +4,7 @@ This repository demonstrates the use of Webpack in JS framework for bundling, co
 
 ## Local Setup
 
-- SClone the repo and move it into the folder of Webpack
+- Clone the repo and move it into the folder of Webpack
 
 Install node_modules
 
